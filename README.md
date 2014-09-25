@@ -8,4 +8,4 @@ Read all about it here and here:
 
   
 
-Start with the [Fizz-Buzz kata]()
+Start with the [Fizz-Buzz kata](./fizz-buzz-kata.md)
