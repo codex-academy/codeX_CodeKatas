@@ -36,7 +36,7 @@ See the details of the kata here:
    * fizz-buzz.js
    * fizz-buzz.test.js
     
-Use the first file for your katas code and the second for unit tests. The idea with TDD is that you write your tests first and then the code for your program next. Feel free to brush up on TDD using google.
+Use the first file for your katas code and the second for unit tests. The idea with TDD is that you write your tests first and then the code for your program next. Feel free to brush up on TDD using google. Please keep your katas safe in github.
     
 ## Once done
 
