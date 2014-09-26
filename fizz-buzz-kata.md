@@ -20,12 +20,12 @@ Do this Kata using:
 
 You can install NodeJS and npm (node package manager) using apt-get.
 
- sudo apt-get install nodejs
- sudo apt-get install npm
+  sudo apt-get install nodejs
+  sudo apt-get install npm
  
-Install mocha using npm:
-
-
+Install mocha using npm - do this in the folder you will be doing the kata in:
+ 
+  npm install mocha
 
 ## What to do
 
